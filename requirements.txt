@@ -1,0 +1,22 @@
+# Entorno del proyecto · Python 3.13
+# Instalación: python -m venv .venv  &&  .venv\Scripts\activate  &&  pip install -r requirements.txt
+
+# Datos
+pandas==2.3.3
+numpy==2.5.4
+requests==2.34.2
+
+# Modelización (suite Nixtla)
+statsforecast==2.1.1
+utilsforecast==0.2.17
+coreforecast==0.0.18
+
+# Estadística y gráficos
+statsmodels==0.15.0
+scipy==1.18.1
+matplotlib==3.11.2
+
+# Notebooks
+jupyter==1.1.1
+ipykernel==7.4.0
+nbconvert==7.17.2

@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Proyecto ──────────────────────────────────────────────
+# Los datos se descargan desde el código: nunca se versionan
+data/
+*.csv
+*.parquet
+*.xlsx
